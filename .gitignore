@@ -1,6 +1,6 @@
 node_modules
 .env
-
+.package_lock.json
 # CDK asset staging directory
 .cdk.staging
 cdk.out
