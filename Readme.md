@@ -1,6 +1,6 @@
 # Node.js Backend for JS Web Application
 
-Welcome to the Node.js backend of our JavaScript web application! This backend is built using AWS CDK to manage infrastructure components. The application includes user authentication, controllers for handling requests, GitHub checks for continuous integration, and automatic deployment from GitHub. Additionally, content moderation and image checking using AWS Rekognition have been implemented.
+Welcome to the Node.js backend of our JavaScript web application! This backend is built using AWS CDK to manage infrastructure components. The application includes user authentication, controllers for handling requests, GitHub checks for continuous integration, and automatic deployment from GitHub. Additionally, content moderation and image checking using AWS Rekognition have been implemented. The app is live in [here](https://www.career-crush.com)
 
 ## Features
 
